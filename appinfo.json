@@ -1,0 +1,22 @@
+{
+  "uuid": "4d52a581-9cb9-4369-87aa-1bba2a644e91",
+  "shortName": "Just a Bit More",
+  "longName": "Just a Bit More",
+  "companyName": "David Kohen",
+  "versionCode": 1,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_binary_watch.png"
+      }
+    ]
+  }
+}
